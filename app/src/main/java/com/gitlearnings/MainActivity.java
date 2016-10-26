@@ -22,6 +22,15 @@ public class MainActivity extends AppCompatActivity {
         /*switch to development branch
         * git checkout development*/
 
+        /*add project
+        * git add . */
+
+        /*commit
+        * git commit -m "message*/
+
+        /*push the project
+        * git push origin branchname
+        * ex:git push origin master/development*/
 
 
 
