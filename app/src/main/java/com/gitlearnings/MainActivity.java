@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         * ex:git push origin master/develolpment*/
 
 
-        Toast.makeText(this,"master",Toast.LENGTH_SHORT).show();
+
 
 
         /*to merge master branch with development branch
