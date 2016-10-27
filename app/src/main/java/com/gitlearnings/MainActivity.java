@@ -34,6 +34,19 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"development",Toast.LENGTH_SHORT).show();
         Toast.makeText(this,"development1",Toast.LENGTH_SHORT).show();
 
+
+        /*to merge master branch with development branch
+        * 1)we need to switch the branch(destination branch)
+        * 2)merge with source branch
+        * EX: we have lot of code in development branch which is not in master branch.If we want to merge
+        *       the master branch with development branch
+        *       1)git checkout master
+        *       2)git merge development
+        * Ex 2: If we have 3 branches(A,B,C).If we want to get the code of A and B in Branch C..
+              * 1)git checkout C
+              * 2)git merge A and B
+         */
+
     }
 
 }
