@@ -11,7 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        development();
     }
 
     private void development() {
@@ -36,4 +35,5 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"development1",Toast.LENGTH_SHORT).show();
 
     }
+
 }
