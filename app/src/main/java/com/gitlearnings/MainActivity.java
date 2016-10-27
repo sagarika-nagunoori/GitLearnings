@@ -15,25 +15,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void development() {
-        /*we are in development branch*/
-
-        /*create branch
-        * git branch branchname*/
-
-        /*switch to development branch
-        * git checkout development*/
-
-        /*add project
-        * git add . */
-
-        /*commit
-        * git commit -m "message*/
-
-        /*push the project
-        * git push origin branchname
-        * ex:git push origin master/develolpment*/
-
-
 
 
 
