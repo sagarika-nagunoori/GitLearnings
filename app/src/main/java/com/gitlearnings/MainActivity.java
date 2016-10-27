@@ -32,8 +32,7 @@ public class MainActivity extends AppCompatActivity {
         /*push the project
         * git push origin branchname
         * ex:git push origin master/develolpment*/
-        Toast.makeText(this,"development",Toast.LENGTH_SHORT).show();
-        Toast.makeText(this,"development1",Toast.LENGTH_SHORT).show();
+  
 
 
         /*to merge master branch with development branch
