@@ -34,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+        Toast.makeText(this,"deve",Toast.LENGTH_SHORT).show();
+
+
         /*to merge master branch with development branch
         * 1)we need to switch the branch(destination branch)
         * 2)merge with source branch
