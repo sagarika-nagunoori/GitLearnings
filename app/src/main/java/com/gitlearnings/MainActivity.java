@@ -2,6 +2,7 @@ package com.gitlearnings;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -30,10 +31,9 @@ public class MainActivity extends AppCompatActivity {
 
         /*push the project
         * git push origin branchname
-        * ex:git push origin master/development*/
+        * ex:git push origin master/develolpment*/
 
-
-
+        Toast.makeText(this,"development",Toast.LENGTH_SHORT).show();
 
     }
 }
