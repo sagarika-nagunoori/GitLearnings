@@ -49,6 +49,11 @@ public class MainActivity extends AppCompatActivity {
               * 2)git merge A and B
          */
 
+
+        /*directly create and switch the branch
+        *
+        * git checkout -b branchname*/
+
     }
 
 }
